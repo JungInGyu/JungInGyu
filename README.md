@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Welcome&fontAlignY=35&animation=fadeIn&desc=Jig's%20GitHub%20Profile&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Welcome&fontAlignY=35&animation=fadeIn&desc=JIG's%20GitHub%20Profile&descAlignY=60)
 ## _경험을 쌓아가고 있는 개발자_
   
 <table style="text-align:center"> 
