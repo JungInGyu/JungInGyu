@@ -3,10 +3,11 @@
   <a href="mailto:dltnswn20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dltnsnw20@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+대학교에 재학하면서 어떤게 나와 맞을지 고민하며 공부하는 주니어 개발자입니다.
+
+주 전공은 현재 자바입니다.
+
+부 전공으로는 파이썬과 어떤걸 만들든 항상 따라오던 웹(html,css,php)과 앱(android,flutter)입니다. ✨ <br/><br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JungInGyu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungInGyu&layout=compact&hide_border=true&theme=white)
