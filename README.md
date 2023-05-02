@@ -21,7 +21,12 @@
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JungInGyu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungInGyu&layout=compact&hide_border=true&theme=white)
-  
+   
+   
+  # 소속 중
+- [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)
+
+대학교에서 마음맞는 친구들끼리 모여서 만든 개발 팀! ctrls studio 지금 방문하여 컨텐츠를 확인하세요!
  
 
 
