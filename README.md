@@ -1,4 +1,15 @@
 <div align=center> 
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Welcome&fontAlignY=35&animation=fadeIn&desc=jeh's%20GitHub%20Profile&descAlignY=60)
+## _경험을 쌓아가고 있는 개발자_
+  
+<table style="text-align:center"> 
+  <tr>
+    <td> <img width="363.63em" height="200em" src="https://github-readme-stats.vercel.app/api?username=JungInGyu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /> <br> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungInGyu&layout=compact&hide_border=true&theme=dark&hide=c,c%2B%2B" /> </td>
+  </tr>
+</table>
+ 
+  
+[![N|Solid](https://img.shields.io/badge/Android-eeeeee?style=flat-square&logo=Android&logoColor=#DDC84)](https://nodesource.com/products/nsolid)                                                                                                      [![N|Solid](https://img.shields.io/badge/AndroidStudio-eeeeee?style=flat-square&logo=AndroidStudio&logoColor=3DDC84)](https://nodesource.com/products/nsolid)                                                                                        [![N|Solid](https://img.shields.io/badge/JAVA-eeeeee?style=flat-square&logo=JAVA&logoColor=007396)](https://nodesource.com/products/nsolid)                                                                                                       [![N|Solid](https://img.shields.io/badge/HTML-eeeeee?style=flat-square&logo=HTML5&logoColor=E34F26)](https://nodesource.com/products/nsolid)                                                                                                                                                                                                           [![N|Solid](https://img.shields.io/badge/PHP-eeeeee?style=flat-square&logo=PHP&logoColor=777BB4)](https://nodesource.com/products/nsolid)                                                                                                      [![N|Solid](https://img.shields.io/badge/PHPMyAdmin-eeeeee?style=flat-square&logo=PHPMyAdmin&logoColor=6C78AF)](https://nodesource.com/products/nsolid)                                                                                                [![N|Solid](https://img.shields.io/badge/Arduino-eeeeee?style=flat-square&logo=Arduino&logoColor=0979D)](https://nodesource.com/products/nsolid)  
   <p>
   <a href="mailto:dltnswn20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dltnsnw20@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 </p>
